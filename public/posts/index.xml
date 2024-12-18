@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Talvez um blog?</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Talvez um blog?</description>
+    <generator>Hugo -- 0.140.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primeiro Post?</title>
+      <link>http://localhost:1313/posts/primeiro-post/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/primeiro-post/</guid>
+      <description>&lt;p&gt;Seguindo o &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;tutorial oficial&lt;/a&gt; do Hugo, criei meu primeiro post.&lt;/p&gt;
+&lt;p&gt;Usa github actions para fazer o deploy automático no &lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;. Essa etapa é necessária? 🤔&lt;/p&gt;
+&lt;p&gt;Meu objetivo é usar de uma forma integrada ao &lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian&lt;/a&gt;, similar ao que o &lt;a href=&#34;https://youtu.be/dnE7c0ELEH8?si=ZfIH2FYOtS2fkZVX&#34;&gt;Networkchuck fez&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;alguns-pontos-de-atenção&#34;&gt;Alguns pontos de atenção:&lt;/h2&gt;
+&lt;h3 id=&#34;callouts&#34;&gt;Callouts&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!CAUTION] Callouts?
+&lt;a href=&#34;https://help.obsidian.md/Editing+and+formatting/Callouts&#34;&gt;Callouts&lt;/a&gt; no estilo do Obsidian não são suportados.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;A alternativa é:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Warning&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This is a warning&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;O github tem uma forma de renderizar esse elemento (não sei se se chama callouts lá), então deve haver uma maneira de integrar.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
