@@ -1,7 +1,7 @@
 +++
 title = 'Primeiro Post?'
 date = 2024-12-16
-draft = false
+draft = true
 +++
 
 Seguindo o [tutorial oficial](https://gohugo.io/getting-started/quick-start/) do Hugo, criei meu primeiro post. 
